@@ -1,6 +1,5 @@
 import { NavLink, Route } from "react-router-dom"
 import Mainpage from "./Components/mainpage"
-import Mealcard from "./Components/Mealcard"
 import Mealinfo from "./Components/Mealinfo"
 import { Router, Routes } from "react-router-dom"
 function App() {
